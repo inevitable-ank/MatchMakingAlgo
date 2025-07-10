@@ -1,0 +1,452 @@
+[
+  {
+    "id": 76,
+    "name": "Kartik Sharma",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIT Delhi",
+    "degree": "Computer Science",
+    "year": "4th Year",
+    "city": "New Delhi",
+    "bio": "Backend developer with a passion for microservices. Enjoys playing guitar, reading sci-fi novels, and building scalable backend systems.",
+    "interests": ["Microservices", "Guitar", "Sci-Fi", "Backend Development", "Scalability"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing guitar and reading sci-fi novels",
+      "What motivates you?": "Building robust and scalable backend systems"
+    },
+    "compatibility": 88
+  },
+  {
+    "id": 77,
+    "name": "Tanya Singh",
+    "age": 22,
+    "gender": "Female",
+    "university": "IIT Bombay",
+    "degree": "Chemical Engineering",
+    "year": "3rd Year",
+    "city": "Mumbai",
+    "bio": "Chemical engineer with a passion for polymer science. Enjoys hiking, photography, and developing new polymer materials.",
+    "interests": ["Polymer Science", "Hiking", "Photography", "Material Development", "Chemistry"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Hiking with camera and studying polymer science",
+      "What motivates you?": "Developing innovative polymer materials"
+    },
+    "compatibility": 83
+  },
+  {
+    "id": 78,
+    "name": "Rohan Kapoor",
+    "age": 24,
+    "gender": "Male",
+    "university": "BITS Pilani",
+    "degree": "Computer Science",
+    "year": "4th Year",
+    "city": "Bangalore",
+    "bio": "Machine learning engineer with a love for computer vision. Enjoys playing chess, reading research papers, and developing AI models.",
+    "interests": ["Computer Vision", "Chess", "Research Papers", "Machine Learning", "AI Models"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing chess and reading research papers",
+      "What motivates you?": "Advancing computer vision technology"
+    },
+    "compatibility": 91
+  },
+  {
+    "id": 79,
+    "name": "Mira Joshi",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIM Ahmedabad",
+    "degree": "Economics & Finance",
+    "year": "2nd Year",
+    "city": "Ahmedabad",
+    "bio": "Economics major with a focus on labor economics. Enjoys classical music, painting, and analyzing employment trends.",
+    "interests": ["Labor Economics", "Classical Music", "Painting", "Employment Trends", "Economic Analysis"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Listening to classical music while painting",
+      "What motivates you?": "Understanding labor market dynamics"
+    },
+    "compatibility": 80
+  },
+  {
+    "id": 80,
+    "name": "Arjun Desai",
+    "age": 25,
+    "gender": "Male",
+    "university": "IIT Madras",
+    "degree": "Civil Engineering",
+    "year": "4th Year",
+    "city": "Chennai",
+    "bio": "Structural engineer with a passion for earthquake engineering. Loves playing cricket, reading engineering books, and designing earthquake-resistant structures.",
+    "interests": ["Earthquake Engineering", "Cricket", "Engineering Books", "Structural Design", "Seismic Analysis"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing cricket and reading engineering books",
+      "What motivates you?": "Designing structures that can withstand earthquakes"
+    },
+    "compatibility": 78
+  },
+  {
+    "id": 81,
+    "name": "Nisha Kumar",
+    "age": 20,
+    "gender": "Female",
+    "university": "IIT Delhi",
+    "degree": "Data Science",
+    "year": "2nd Year",
+    "city": "New Delhi",
+    "bio": "Data science student passionate about computer vision. Enjoys dancing, cooking, and working on image recognition projects.",
+    "interests": ["Computer Vision", "Dancing", "Cooking", "Image Recognition", "Machine Learning"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Dancing and cooking while working on CV projects",
+      "What motivates you?": "Teaching machines to see and understand images"
+    },
+    "compatibility": 89
+  },
+  {
+    "id": 82,
+    "name": "Vikram Patel",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIT Bombay",
+    "degree": "Mechanical Engineering",
+    "year": "4th Year",
+    "city": "Mumbai",
+    "bio": "Design engineer with a love for product design. Enjoys trekking, mechanical tinkering, and creating innovative product designs.",
+    "interests": ["Product Design", "Trekking", "Mechanics", "Innovation", "Design Engineering"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Trekking and working on product designs",
+      "What motivates you?": "Creating innovative and user-friendly products"
+    },
+    "compatibility": 84
+  },
+  {
+    "id": 83,
+    "name": "Zara Verma",
+    "age": 22,
+    "gender": "Female",
+    "university": "BITS Pilani",
+    "degree": "Environmental Engineering",
+    "year": "3rd Year",
+    "city": "Bangalore",
+    "bio": "Environmental engineer passionate about renewable energy. Loves wildlife photography, organic farming, and designing solar energy systems.",
+    "interests": ["Renewable Energy", "Wildlife Photography", "Organic Farming", "Solar Energy", "Environmental Science"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Wildlife photography and organic farming",
+      "What motivates you?": "Designing sustainable renewable energy solutions"
+    },
+    "compatibility": 87
+  },
+  {
+    "id": 84,
+    "name": "Rahul Iyer",
+    "age": 24,
+    "gender": "Male",
+    "university": "IIM Ahmedabad",
+    "degree": "MBA",
+    "year": "1st Year",
+    "city": "Ahmedabad",
+    "bio": "Former marketing manager now pursuing MBA. Loves playing guitar, reading business books, and developing marketing strategies.",
+    "interests": ["Marketing Management", "Guitar", "Business Books", "Marketing Strategy", "Brand Management"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing guitar and reading business literature",
+      "What motivates you?": "Creating effective marketing strategies"
+    },
+    "compatibility": 85
+  },
+  {
+    "id": 85,
+    "name": "Ananya Nair",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIT Madras",
+    "degree": "Computer Science",
+    "year": "3rd Year",
+    "city": "Chennai",
+    "bio": "Software engineer with a passion for cloud computing. Enjoys classical dance, reading tech blogs, and building cloud-native applications.",
+    "interests": ["Cloud Computing", "Classical Dance", "Tech Blogs", "Cloud-Native Apps", "Programming"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Classical dance practice and coding cloud apps",
+      "What motivates you?": "Building scalable cloud-native applications"
+    },
+    "compatibility": 90
+  },
+  {
+    "id": 86,
+    "name": "Kabir Sharma",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIT Delhi",
+    "degree": "Electronics and Communication",
+    "year": "4th Year",
+    "city": "New Delhi",
+    "bio": "Wireless communication engineer with a love for IoT. Enjoys playing guitar, reading electronics magazines, and designing IoT systems.",
+    "interests": ["Wireless Communication", "Guitar", "Electronics", "IoT", "Communication Systems"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing guitar and reading electronics magazines",
+      "What motivates you?": "Designing connected IoT systems"
+    },
+    "compatibility": 82
+  },
+  {
+    "id": 87,
+    "name": "Sakshi Kumar",
+    "age": 22,
+    "gender": "Female",
+    "university": "IIT Bombay",
+    "degree": "Electrical Engineering",
+    "year": "3rd Year",
+    "city": "Mumbai",
+    "bio": "Power systems engineer with a passion for smart grids. Enjoys hiking, photography, and designing intelligent power distribution systems.",
+    "interests": ["Smart Grids", "Hiking", "Photography", "Power Distribution", "Electrical Systems"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Hiking with camera and studying power systems",
+      "What motivates you?": "Designing intelligent power distribution networks"
+    },
+    "compatibility": 86
+  },
+  {
+    "id": 88,
+    "name": "Vedant Rao",
+    "age": 24,
+    "gender": "Male",
+    "university": "BITS Pilani",
+    "degree": "Computer Science",
+    "year": "4th Year",
+    "city": "Bangalore",
+    "bio": "Software engineer with a love for database systems. Enjoys playing chess, reading tech blogs, and designing efficient database architectures.",
+    "interests": ["Database Systems", "Chess", "Tech Blogs", "Database Architecture", "Data Management"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing chess and reading tech blogs",
+      "What motivates you?": "Designing efficient database architectures"
+    },
+    "compatibility": 88
+  },
+  {
+    "id": 89,
+    "name": "Maya Gupta",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIM Ahmedabad",
+    "degree": "Economics & Finance",
+    "year": "2nd Year",
+    "city": "Ahmedabad",
+    "bio": "Economics major with a focus on health economics. Enjoys classical music, painting, and analyzing healthcare systems.",
+    "interests": ["Health Economics", "Classical Music", "Painting", "Healthcare Systems", "Economic Analysis"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Listening to classical music while painting",
+      "What motivates you?": "Understanding healthcare economics and policy"
+    },
+    "compatibility": 81
+  },
+  {
+    "id": 90,
+    "name": "Arnav Reddy",
+    "age": 25,
+    "gender": "Male",
+    "university": "IIT Madras",
+    "degree": "Civil Engineering",
+    "year": "4th Year",
+    "city": "Chennai",
+    "bio": "Transportation engineer with a passion for public transit. Loves playing cricket, reading engineering books, and designing efficient transit systems.",
+    "interests": ["Public Transit", "Cricket", "Engineering Books", "Transit Systems", "Transportation Planning"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing cricket and reading engineering books",
+      "What motivates you?": "Designing efficient public transit systems"
+    },
+    "compatibility": 79
+  },
+  {
+    "id": 91,
+    "name": "Neha Gupta",
+    "age": 20,
+    "gender": "Female",
+    "university": "IIT Delhi",
+    "degree": "Data Science",
+    "year": "2nd Year",
+    "city": "New Delhi",
+    "bio": "Data science student passionate about recommendation systems. Enjoys dancing, cooking, and working on personalized recommendation algorithms.",
+    "interests": ["Recommendation Systems", "Dancing", "Cooking", "Personalization", "Machine Learning"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Dancing and cooking while working on recommendation systems",
+      "What motivates you?": "Creating personalized user experiences through AI"
+    },
+    "compatibility": 94
+  },
+  {
+    "id": 92,
+    "name": "Rishabh Kumar",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIT Bombay",
+    "degree": "Mechanical Engineering",
+    "year": "4th Year",
+    "city": "Mumbai",
+    "bio": "Robotics engineer with a love for industrial automation. Enjoys trekking, mechanical tinkering, and designing automated manufacturing systems.",
+    "interests": ["Industrial Automation", "Trekking", "Mechanics", "Robotics", "Manufacturing Systems"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Trekking and working on automation systems",
+      "What motivates you?": "Designing automated manufacturing processes"
+    },
+    "compatibility": 83
+  },
+  {
+    "id": 93,
+    "name": "Pooja Verma",
+    "age": 22,
+    "gender": "Female",
+    "university": "BITS Pilani",
+    "degree": "Environmental Engineering",
+    "year": "3rd Year",
+    "city": "Bangalore",
+    "bio": "Environmental engineer passionate about carbon capture. Loves wildlife photography, organic farming, and designing carbon sequestration systems.",
+    "interests": ["Carbon Capture", "Wildlife Photography", "Organic Farming", "Carbon Sequestration", "Environmental Science"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Wildlife photography and organic farming",
+      "What motivates you?": "Developing carbon capture technologies"
+    },
+    "compatibility": 86
+  },
+  {
+    "id": 94,
+    "name": "Amit Shah",
+    "age": 24,
+    "gender": "Male",
+    "university": "IIM Ahmedabad",
+    "degree": "MBA",
+    "year": "1st Year",
+    "city": "Ahmedabad",
+    "bio": "Former finance manager now pursuing MBA. Loves playing guitar, reading business books, and developing financial strategies.",
+    "interests": ["Financial Management", "Guitar", "Business Books", "Financial Strategy", "Investment Analysis"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing guitar and reading business literature",
+      "What motivates you?": "Developing effective financial strategies"
+    },
+    "compatibility": 87
+  },
+  {
+    "id": 95,
+    "name": "Divya Nair",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIT Madras",
+    "degree": "Computer Science",
+    "year": "3rd Year",
+    "city": "Chennai",
+    "bio": "Software engineer with a passion for edge computing. Enjoys classical dance, reading tech blogs, and building edge computing applications.",
+    "interests": ["Edge Computing", "Classical Dance", "Tech Blogs", "Edge Applications", "Programming"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Classical dance practice and coding edge applications",
+      "What motivates you?": "Building efficient edge computing solutions"
+    },
+    "compatibility": 89
+  },
+  {
+    "id": 96,
+    "name": "Karan Malhotra",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIT Delhi",
+    "degree": "Electronics and Communication",
+    "year": "4th Year",
+    "city": "New Delhi",
+    "bio": "Digital signal processing engineer with a love for audio processing. Enjoys playing guitar, reading electronics magazines, and designing audio processing systems.",
+    "interests": ["Digital Signal Processing", "Guitar", "Electronics", "Audio Processing", "Signal Analysis"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing guitar and reading electronics magazines",
+      "What motivates you?": "Designing advanced audio processing systems"
+    },
+    "compatibility": 80
+  },
+  {
+    "id": 97,
+    "name": "Tanvi Sharma",
+    "age": 22,
+    "gender": "Female",
+    "university": "IIT Bombay",
+    "degree": "Electrical Engineering",
+    "year": "3rd Year",
+    "city": "Mumbai",
+    "bio": "Power electronics engineer with a passion for renewable energy systems. Enjoys hiking, photography, and designing solar power systems.",
+    "interests": ["Renewable Energy Systems", "Hiking", "Photography", "Solar Power", "Power Electronics"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Hiking with camera and studying renewable energy",
+      "What motivates you?": "Designing efficient renewable energy systems"
+    },
+    "compatibility": 85
+  },
+  {
+    "id": 98,
+    "name": "Vedant Patel",
+    "age": 24,
+    "gender": "Male",
+    "university": "BITS Pilani",
+    "degree": "Computer Science",
+    "year": "4th Year",
+    "city": "Bangalore",
+    "bio": "Software engineer with a love for quantum computing. Enjoys playing chess, reading tech blogs, and exploring quantum algorithms.",
+    "interests": ["Quantum Computing", "Chess", "Tech Blogs", "Quantum Algorithms", "Computer Science"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing chess and reading tech blogs",
+      "What motivates you?": "Exploring the potential of quantum computing"
+    },
+    "compatibility": 92
+  },
+  {
+    "id": 99,
+    "name": "Maya Iyer",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIM Ahmedabad",
+    "degree": "Economics & Finance",
+    "year": "2nd Year",
+    "city": "Ahmedabad",
+    "bio": "Economics major with a focus on development economics. Enjoys classical music, painting, and analyzing economic development policies.",
+    "interests": ["Development Economics", "Classical Music", "Painting", "Economic Development", "Policy Analysis"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Listening to classical music while painting",
+      "What motivates you?": "Understanding economic development processes"
+    },
+    "compatibility": 84
+  },
+  {
+    "id": 100,
+    "name": "Arnav Singh",
+    "age": 25,
+    "gender": "Male",
+    "university": "IIT Madras",
+    "degree": "Civil Engineering",
+    "year": "4th Year",
+    "city": "Chennai",
+    "bio": "Infrastructure engineer with a passion for smart cities. Loves playing cricket, reading engineering books, and designing intelligent infrastructure systems.",
+    "interests": ["Smart Cities", "Cricket", "Engineering Books", "Infrastructure Systems", "Urban Planning"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing cricket and reading engineering books",
+      "What motivates you?": "Designing intelligent infrastructure for smart cities"
+    },
+    "compatibility": 81
+  }
+] 
