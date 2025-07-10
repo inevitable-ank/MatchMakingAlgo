@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIT Delhi",
+    "degree": "Computer Science",
+    "year": "3rd Year",
+    "city": "New Delhi",
+    "bio": "Passionate about AI and machine learning. Love exploring new cafes and reading sci-fi novels. Always up for deep conversations about technology and philosophy.",
+    "interests": ["Machine Learning", "Photography", "Hiking", "Cooking", "Books"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Exploring new cafes and reading sci-fi novels",
+      "What motivates you?": "Solving complex problems and learning new technologies"
+    },
+    "compatibility": 89
+  },
+  {
+    "id": 2,
+    "name": "Arjun Patel",
+    "age": 22,
+    "gender": "Male",
+    "university": "IIT Bombay",
+    "degree": "Mechanical Engineering",
+    "year": "4th Year",
+    "city": "Mumbai",
+    "bio": "Robotics enthusiast and amateur guitarist. Building the next generation of autonomous systems. Loves trekking in the Western Ghats on weekends.",
+    "interests": ["Robotics", "Guitar", "Trekking", "Gaming", "Startups"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Trekking in the Western Ghats and playing guitar",
+      "What motivates you?": "Building innovative technology that makes a difference"
+    },
+    "compatibility": 76
+  },
+  {
+    "id": 3,
+    "name": "Ananya Singh",
+    "age": 20,
+    "gender": "Female",
+    "university": "BITS Pilani",
+    "degree": "Economics & Finance",
+    "year": "2nd Year",
+    "city": "Bangalore",
+    "bio": "Future entrepreneur with a passion for sustainable business. Loves dancing, traveling, and trying new cuisines. Always looking for the next adventure.",
+    "interests": ["Entrepreneurship", "Dancing", "Travel", "Sustainability", "Finance"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Traveling to new places and trying local cuisines",
+      "What motivates you?": "Creating sustainable business solutions"
+    },
+    "compatibility": 82
+  },
+  {
+    "id": 4,
+    "name": "Rohan Gupta",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIM Ahmedabad",
+    "degree": "MBA",
+    "year": "1st Year",
+    "city": "Ahmedabad",
+    "bio": "Ex-software engineer turned business strategist. Passionate about fintech and social impact. Enjoys chess and exploring street food across India.",
+    "interests": ["Strategy", "Chess", "Food", "Fintech", "Social Impact"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing chess and exploring street food",
+      "What motivates you?": "Creating social impact through technology"
+    },
+    "compatibility": 91
+  },
+  {
+    "id": 5,
+    "name": "Meera Joshi",
+    "age": 22,
+    "gender": "Female",
+    "university": "IIT Madras",
+    "degree": "Electrical Engineering",
+    "year": "4th Year",
+    "city": "Chennai",
+    "bio": "Circuit design geek. Amateur photographer and poet. On weekends, you'll find me sketching urban landscapes or attending open mic nights.",
+    "interests": ["Photography", "Poetry", "Electronics", "Travel", "Music"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Sketching urban landscapes and attending open mic nights",
+      "What motivates you?": "Creating art that captures the beauty of technology"
+    },
+    "compatibility": 74
+  },
+  {
+    "id": 6,
+    "name": "Vikram Singh",
+    "age": 24,
+    "gender": "Male",
+    "university": "IIT Kharagpur",
+    "degree": "Civil Engineering",
+    "year": "4th Year",
+    "city": "Kolkata",
+    "bio": "Landscape architecture enthusiast. Enjoys hiking, calligraphy, and coding small game prototypes in Unity.",
+    "interests": ["Hiking", "Calligraphy", "Gaming", "Architecture", "Sketching"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Hiking and practicing calligraphy",
+      "What motivates you?": "Creating beautiful spaces and digital experiences"
+    },
+    "compatibility": 68
+  },
+  {
+    "id": 7,
+    "name": "Sakshi Rao",
+    "age": 19,
+    "gender": "Female",
+    "university": "IIT Guwahati",
+    "degree": "Chemical Engineering",
+    "year": "2nd Year",
+    "city": "Guwahati",
+    "bio": "Botany buff with a penchant for making experimental mocktails. Loves theatre and writing short plays.",
+    "interests": ["Botany", "Theatre", "Cooking", "Writing", "Chemistry"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Making experimental mocktails and writing plays",
+      "What motivates you?": "Exploring the intersection of science and art"
+    },
+    "compatibility": 85
+  },
+  {
+    "id": 8,
+    "name": "Kabir Verma",
+    "age": 23,
+    "gender": "Male",
+    "university": "IIT Roorkee",
+    "degree": "Environmental Engineering",
+    "year": "3rd Year",
+    "city": "Roorkee",
+    "bio": "Sustainability advocate. Passionate about river cleanup drives, urban farming, and jazz music.",
+    "interests": ["Sustainability", "Music", "Volunteering", "Farming", "Reading"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "River cleanup drives and listening to jazz",
+      "What motivates you?": "Creating a sustainable future for everyone"
+    },
+    "compatibility": 79
+  },
+  {
+    "id": 9,
+    "name": "Nisha Mehta",
+    "age": 21,
+    "gender": "Female",
+    "university": "IIT Hyderabad",
+    "degree": "Data Science",
+    "year": "3rd Year",
+    "city": "Hyderabad",
+    "bio": "Data storyteller. Loves transforming raw data into narrative visuals. A foodie at heart who experiments with fusion cuisines.",
+    "interests": ["Data Viz", "Cooking", "Travel", "Art", "Machine Learning"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Experimenting with fusion cuisines and creating data art",
+      "What motivates you?": "Telling compelling stories through data"
+    },
+    "compatibility": 92
+  },
+  {
+    "id": 10,
+    "name": "Aria Kapoor",
+    "age": 20,
+    "gender": "Female",
+    "university": "IISc Bangalore",
+    "degree": "Astronomy",
+    "year": "2nd Year",
+    "city": "Bangalore",
+    "bio": "Stargazer and astrophotographer. Always chasing the next meteor shower. Loves sci-fi movies and classical piano.",
+    "interests": ["Astronomy", "Photography", "Music", "Sci-Fi", "Writing"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Chasing meteor showers and playing classical piano",
+      "What motivates you?": "Exploring the mysteries of the universe"
+    },
+    "compatibility": 88
+  },
+  {
+    "id": 11,
+    "name": "Ritika Sen",
+    "age": 22,
+    "gender": "Female",
+    "university": "NIT Trichy",
+    "degree": "Electronics and Communication",
+    "year": "3rd Year",
+    "city": "Tiruchirappalli",
+    "bio": "Circuit design hobbyist and part-time guitarist. Enjoys Tamil literature and long bike rides.",
+    "interests": ["Electronics", "Music", "Literature", "Biking", "Coding"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Long bike rides and reading Tamil literature",
+      "What motivates you?": "Building technology that connects people"
+    },
+    "compatibility": 73
+  },
+  {
+    "id": 12,
+    "name": "Suresh Kumar",
+    "age": 23,
+    "gender": "Male",
+    "university": "Anna University",
+    "degree": "Information Technology",
+    "year": "4th Year",
+    "city": "Chennai",
+    "bio": "Full-stack dev enthusiast. Loves playing cricket and experimenting with street food recipes.",
+    "interests": ["Programming", "Cricket", "Cooking", "Gaming", "Travel"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Playing cricket and experimenting with street food",
+      "What motivates you?": "Building complete solutions from frontend to backend"
+    },
+    "compatibility": 80
+  },
+  {
+    "id": 13,
+    "name": "Deepa Patel",
+    "age": 21,
+    "gender": "Female",
+    "university": "Savitribai Phule Pune University",
+    "degree": "Psychology",
+    "year": "2nd Year",
+    "city": "Pune",
+    "bio": "Aspiring counselor. Passionate about art therapy and volunteering at local NGOs.",
+    "interests": ["Psychology", "Art", "Volunteering", "Writing", "Yoga"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Art therapy sessions and volunteering at NGOs",
+      "What motivates you?": "Helping people heal through art and therapy"
+    },
+    "compatibility": 87
+  },
+  {
+    "id": 14,
+    "name": "Vikash Singh",
+    "age": 22,
+    "gender": "Male",
+    "university": "Delhi University",
+    "degree": "English Literature",
+    "year": "3rd Year",
+    "city": "New Delhi",
+    "bio": "Literature geek and poet. Loves attending open-mic poetry nights and playing table tennis.",
+    "interests": ["Poetry", "Literature", "Table Tennis", "Music", "Photography"],
+    "images": ["/placeholder.svg?height=600&width=400"],
+    "personality_prompts": {
+      "What's your ideal weekend?": "Open-mic poetry nights and playing table tennis",
+      "What motivates you?": "Expressing emotions through words and poetry"
+    },
+    "compatibility": 78
+  }
+] 
